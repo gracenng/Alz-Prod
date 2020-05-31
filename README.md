@@ -9,7 +9,7 @@ We understand that Alzheimer's patients experience personal frustration when the
 We used Azure's Face API to help with this. To increase safety, we used the Google Map API with pre-set home location, with one click, 
 they will be shown the way home.
 
-#### Our primary goal is to provide enable individuals, with Alzheimer's, with what they need to become more integrated in society!
+#### Our primary goal is to provide enable individuals, with Alzheimer's, with what they need to become more integrated in society.
 
 # Setup & Installation
 
