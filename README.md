@@ -23,7 +23,7 @@ they will be shown the way home.
 
 4. Install pip requirements using the following command ```pip install -r requirements.txt```
 
-5. Run asynchronous server using the following command ```flask run```
+5. Run asynchronous server using the following command ```python run```
 
 ### Flutter
 
